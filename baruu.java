@@ -1,5 +1,6 @@
 public class baruu {
-    
+
+
         public static void main(String[] args)
         {
 
